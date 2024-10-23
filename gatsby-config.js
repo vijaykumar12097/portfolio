@@ -1,11 +1,12 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/portfolio',
   siteMetadata: {
     title: 'Vijay Kumar',
     description:
-      'Vijay Kumar Abid is a software engineer with more than 4 years of experience building and designing digital experiences for Web.',
-    siteUrl: 'https://faizan-abid.website', // No trailing slash allowed!
+      'Vijay Kumar is a software engineer with more than 4 years of experience building and designing digital experiences for Web.',
+    siteUrl: 'https://vijaykumar12097.github.io/portfolio/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@faizanabid36',
   },
@@ -141,6 +142,6 @@ module.exports = {
           },
         ],
       },
-    }
+    },
   ],
 };
