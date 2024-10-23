@@ -3,7 +3,7 @@ date: '2022'
 title: 'Software Engineer'
 company: 'NextGENi'
 location: 'Pakistan'
-range: 'August 2022 - Present'
+range: 'August 2022 - Present'  #this is commit
 url: 'https://nextgeni.com/'
 ---
 
